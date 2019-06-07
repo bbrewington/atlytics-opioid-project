@@ -1,0 +1,160 @@
+district_id,district_name,county,district_office_flag
+1-1,Northwest Georgia Health District,Bartow,0
+1-1,Northwest Georgia Health District,Catoosa,0
+1-1,Northwest Georgia Health District,Chattooga,0
+1-1,Northwest Georgia Health District,Dade,0
+1-1,Northwest Georgia Health District,Floyd,1
+1-1,Northwest Georgia Health District,Gordon,0
+1-1,Northwest Georgia Health District,Haralson,0
+1-1,Northwest Georgia Health District,Paulding,0
+1-1,Northwest Georgia Health District,Polk,0
+1-1,Northwest Georgia Health District,Walker,0
+1-2,North Georgia Health District,Cherokee,1
+1-2,North Georgia Health District,Fannin,0
+1-2,North Georgia Health District,Gilmer,0
+1-2,North Georgia Health District,Murray,0
+1-2,North Georgia Health District,Pickens,0
+1-2,North Georgia Health District,Whitfield,0
+2,North Health District,Banks,0
+2,North Health District,Dawson,0
+2,North Health District,Forsyth,0
+2,North Health District,Franklin,0
+2,North Health District,Habersham,0
+2,North Health District,Hall,1
+2,North Health District,Hart,0
+2,North Health District,Lumpkin,0
+2,North Health District,Rabun,0
+2,North Health District,Stephens,0
+2,North Health District,Towns,0
+2,North Health District,Union,0
+2,North Health District,White,0
+3-1,Cobb/Douglas Health District,Cobb,1
+3-1,Cobb/Douglas Health District,Douglas,0
+3-2,Fulton County Board of Health,Fulton,1
+3-3,Clayton County Health District,Clayton,1
+3-4,East Metro Health District,Gwinnett,1
+3-4,East Metro Health District,Newton,0
+3-4,East Metro Health District,Rockdale,0
+3-5,DeKalb Health District,DeKalb,1
+4,District 4 Health District,Butts,0
+4,District 4 Health District,Carroll,0
+4,District 4 Health District,Coweta,0
+4,District 4 Health District,Fayette,0
+4,District 4 Health District,Heard,0
+4,District 4 Health District,Henry,0
+4,District 4 Health District,Lamar,0
+4,District 4 Health District,Meriwether,0
+4,District 4 Health District,Pike,0
+4,District 4 Health District,Spalding,0
+4,District 4 Health District,Troup,1
+4,District 4 Health District,Upson,0
+5-1,South Central Health District,Bleckley,0
+5-1,South Central Health District,Dodge,0
+5-1,South Central Health District,Johnson,0
+5-1,South Central Health District,Laurens,1
+5-1,South Central Health District,Montgomery,0
+5-1,South Central Health District,Pulaski,0
+5-1,South Central Health District,Telfair,0
+5-1,South Central Health District,Treutlen,0
+5-1,South Central Health District,Wheeler,0
+5-1,South Central Health District,Wilcox,0
+5-2,North Central Health District,Baldwin,0
+5-2,North Central Health District,Bibb,1
+5-2,North Central Health District,Crawford,0
+5-2,North Central Health District,Hancock,0
+5-2,North Central Health District,Houston,0
+5-2,North Central Health District,Jasper,0
+5-2,North Central Health District,Jones,0
+5-2,North Central Health District,Monroe,0
+5-2,North Central Health District,Peach,0
+5-2,North Central Health District,Putnam,0
+5-2,North Central Health District,Twiggs,0
+5-2,North Central Health District,Washington,0
+5-2,North Central Health District,Wilkinson,0
+6,East Central Health District,Burke,0
+6,East Central Health District,Columbia,0
+6,East Central Health District,Emanuel,0
+6,East Central Health District,Glascock,0
+6,East Central Health District,Jefferson,0
+6,East Central Health District,Jenkins,0
+6,East Central Health District,Lincoln,0
+6,East Central Health District,McDuffie,0
+6,East Central Health District,Richmond,1
+6,East Central Health District,Screven,0
+6,East Central Health District,Taliaferro,0
+6,East Central Health District,Warren,0
+6,East Central Health District,Wilkes,0
+7,West Central Health District,Chattahoochee,0
+7,West Central Health District,Clay,0
+7,West Central Health District,Crisp,0
+7,West Central Health District,Dooly,0
+7,West Central Health District,Harris,0
+7,West Central Health District,Macon,0
+7,West Central Health District,Muscogee,1
+7,West Central Health District,Marion,0
+7,West Central Health District,Quitman,0
+7,West Central Health District,Randolph,0
+7,West Central Health District,Schley,0
+7,West Central Health District,Stewart,0
+7,West Central Health District,Sumter,0
+7,West Central Health District,Talbot,0
+7,West Central Health District,Taylor,0
+7,West Central Health District,Webster,0
+8-1,South Health District,Ben Hill,0
+8-1,South Health District,Berrien,0
+8-1,South Health District,Brooks,0
+8-1,South Health District,Cook,0
+8-1,South Health District,Echols,0
+8-1,South Health District,Irwin,0
+8-1,South Health District,Lanier,0
+8-1,South Health District,Lowndes,1
+8-1,South Health District,Tift,0
+8-1,South Health District,Turner,0
+8-2,Southwest Health District,Baker,0
+8-2,Southwest Health District,Calhoun,0
+8-2,Southwest Health District,Colquitt,0
+8-2,Southwest Health District,Dougherty,1
+8-2,Southwest Health District,Decatur,0
+8-2,Southwest Health District,Early,0
+8-2,Southwest Health District,Grady,0
+8-2,Southwest Health District,Lee,0
+8-2,Southwest Health District,Miller,0
+8-2,Southwest Health District,Mitchell,0
+8-2,Southwest Health District,Seminole,0
+8-2,Southwest Health District,Terrell,0
+8-2,Southwest Health District,Thomas,0
+8-2,Southwest Health District,Worth,0
+9-1,Coastal Health District,Bryan,0
+9-1,Coastal Health District,Camden,0
+9-1,Coastal Health District,Chatham,0
+9-1,Coastal Health District,Effingham,0
+9-1,Coastal Health District,Glynn,1
+9-1,Coastal Health District,Liberty,0
+9-1,Coastal Health District,Long,0
+9-1,Coastal Health District,McIntosh,0
+9-2,Southeast Health District,Appling,0
+9-2,Southeast Health District,Atkinson,0
+9-2,Southeast Health District,Bacon,0
+9-2,Southeast Health District,Brantley,0
+9-2,Southeast Health District,Bulloch,0
+9-2,Southeast Health District,Candler,0
+9-2,Southeast Health District,Charlton,0
+9-2,Southeast Health District,Clinch,0
+9-2,Southeast Health District,Coffee,0
+9-2,Southeast Health District,Evans,0
+9-2,Southeast Health District,Jeff Davis,0
+9-2,Southeast Health District,Pierce,0
+9-2,Southeast Health District,Tattnall,0
+9-2,Southeast Health District,Toombs,0
+9-2,Southeast Health District,Ware,1
+9-2,Southeast Health District,Wayne,0
+10,Northeast Health District,Barrow,0
+10,Northeast Health District,Clarke,1
+10,Northeast Health District,Elbert,0
+10,Northeast Health District,Greene,0
+10,Northeast Health District,Jackson,0
+10,Northeast Health District,Madison,0
+10,Northeast Health District,Morgan,0
+10,Northeast Health District,Oconee,0
+10,Northeast Health District,Oglethorpe,0
+10,Northeast Health District,Walton,0
